@@ -1,6 +1,9 @@
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif">
+
 ### Hi there 👋, I'm Andrew Reinhart
 #### Newbie Fullstack Developer from Indonesia.
 2nd-year Computer Science student, always eager to learn and share knowledge.
+
 
 Skills: REACT / JS / HTML / CSS.
 
