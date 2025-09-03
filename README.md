@@ -1,7 +1,7 @@
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif">
+<h1 align="center">Hi 👋, I'm Andrew Reinhart</h1>
+Newbie Front-End Developer from Indonesia.
 
-### Hi there 👋, I'm Andrew Reinhart
-#### Newbie Fullstack Developer from Indonesia.
 2nd-year Computer Science student, always eager to learn and share knowledge.
 
 
