@@ -5,7 +5,7 @@ Newbie Front-End Developer from Indonesia.
 2nd-year Computer Science student, always eager to learn and share knowledge.
 
 
-Skills: REACT / JS / HTML / CSS.
+Skills: JS / HTML / CSS.
 
 - 🔭 I’m currently studying at Universitas Tarumanagara 
 - 📫 How to reach me: ndrureiwork@gmail.com 
