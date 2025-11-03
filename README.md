@@ -3,8 +3,8 @@
 ###
 
 <p align="left">
-  I'm a passionate <b>Backend Developer</b> currently exploring <b>AI and modern web technologies</b>.  
-  I love building efficient systems, clean APIs, and experimenting with scalable architectures.
+  I'm currently learning to become a <b>Fullstack Developer</b> specializing in <b>Web2 and Web3 technologies</b>.  
+  I enjoy building interactive web apps, experimenting with blockchain integration, and exploring how traditional backend systems can merge with decentralized architecture.
 </p>
 
 ###
