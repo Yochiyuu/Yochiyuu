@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! I'm Andrew Reinhart (Yochiyuu)</h2>
+<h1 align="center">Hi 👋! I'm Andrew Reinhart</h1>
 
 ###
 
