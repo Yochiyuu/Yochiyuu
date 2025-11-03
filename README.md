@@ -16,7 +16,7 @@
 
 ###
 
-<img align="right" height="150" src="https://raw.githubusercontent.com/Yochiyuu/Yochiyuu/main/assets/avatar.png" alt="Profile avatar" />
+<img align="right" height="150" src="https://giphy.com/gifs/computer-pc-mouse-KphDFbotQHzU5LBnBu" alt="GIF" />
 
 ###
 
@@ -49,9 +49,3 @@
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Discord logo" />
   </a>
 </div>
-
-###
-
-<br clear="both" />
-
-<img src="https://raw.githubusercontent.com/Yochiyuu/Yochiyuu/output/snake.svg" alt="Snake animation" />
