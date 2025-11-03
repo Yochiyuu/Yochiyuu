@@ -39,23 +39,6 @@
   <img width="12" />
 </div>
 
-###
-
-### 🧰 Tools I Use
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,vercel,postman,docker" />
-</div>
-
-###
-
-### 🚀 Current Projects
-
-- 🌱 Building **Lisk Garden DApp** — a decentralized platform built with React, TypeScript, and Lisk SDK.  
-- 🧩 Experimenting with **AI integration** in backend systems using Python & FastAPI.  
-- ⚙️ Learning more about **scalable architectures** and cloud deployment.
-
-###
-
 ### 🌐 Connect with Me
 
 <div align="left">
