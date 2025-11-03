@@ -10,13 +10,9 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Yochiyuu&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Yochiyuu&layout=compact&theme=dracula&langs_count=8" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Yochiyuu&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="150" alt="stats graph" />
+  <img width="24" />   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Yochiyuu&layout=compact&theme=dracula&langs_count=8" height="150" alt="languages graph" />
 </div>
-
-###
-
-<img align="right" height="150" src="https://giphy.com/gifs/computer-pc-mouse-KphDFbotQHzU5LBnBu" alt="GIF" />
 
 ###
 
@@ -39,13 +35,19 @@
   <a href="https://instagram.com/dru.rei" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Instagram logo" />
   </a>
+  </div>
+  <div align="left">
   <a href="mailto:ndrureiwork@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail logo" />
   </a>
+  </div>
+  <div align="left">
   <a href="https://www.linkedin.com/in/andrew-reinhart-silalahi" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn logo" />
   </a>
+  </div>
+  <div align="left">
   <a href="https://discord.gg/yochiyuu" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Discord logo" />
   </a>
-</div>
+  </div>
