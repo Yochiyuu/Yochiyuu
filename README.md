@@ -9,12 +9,6 @@
 
 ###
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Yochiyuu&label=Profile%20views&color=blueviolet&style=flat" alt="Profile views" />
-</p>
-
-###
-
 <div align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Yochiyuu&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="150" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Yochiyuu&layout=compact&theme=dracula&langs_count=8" height="150" alt="languages graph" />
@@ -61,9 +55,3 @@
 <br clear="both" />
 
 <img src="https://raw.githubusercontent.com/Yochiyuu/Yochiyuu/output/snake.svg" alt="Snake animation" />
-
-###
-
-### ✨ Quote I Live By
-
-> “Code is like humor. When you have to explain it, it’s bad.” — Cory House
