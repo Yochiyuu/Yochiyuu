@@ -9,14 +9,20 @@
 
 ###
 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Yochiyuu&label=Profile%20views&color=blueviolet&style=flat" alt="Profile views" />
+</p>
+
+###
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yochiyuu&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Yochiyuu&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="150" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Yochiyuu&layout=compact&theme=dracula&langs_count=8" height="150" alt="languages graph" />
 </div>
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" alt="Coding gif" />
+<img align="right" height="150" src="https://raw.githubusercontent.com/Yochiyuu/Yochiyuu/main/assets/avatar.png" alt="Profile avatar" />
 
 ###
 
@@ -39,6 +45,21 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo" />
 </div>
+
+###
+
+### 🧰 Tools I Use
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,vercel,postman,docker" />
+</div>
+
+###
+
+### 🚀 Current Projects
+
+- 🌱 Building **Lisk Garden DApp** — a decentralized platform built with React, TypeScript, and Lisk SDK.  
+- 🧩 Experimenting with **AI integration** in backend systems using Python & FastAPI.  
+- ⚙️ Learning more about **scalable architectures** and cloud deployment.
 
 ###
 
