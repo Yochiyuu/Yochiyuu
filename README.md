@@ -11,24 +11,12 @@
 
 <div align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Yochiyuu&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="150" alt="stats graph" />
-  <img width="24" />   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Yochiyuu&layout=compact&theme=dracula&langs_count=8" height="150" alt="languages graph" />
+ <img width="24" />   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=Yochiyuu&layout=compact&theme=dracula&langs_count=8" height="150" alt="languages graph" />
 </div>
 
 ###
 
-### 🧠 Tech Stack
-
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif">
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo" />
-  <img width="12" />
-</div>
 
 ### 🌐 Connect with Me
 
