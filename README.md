@@ -9,13 +9,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Yochiyuu&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="150" alt="stats graph" />
- <img width="24" />   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=Yochiyuu&layout=compact&theme=dracula&langs_count=8" height="150" alt="languages graph" />
-</div>
-
-###
-
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif">
 
 ### 🌐 Connect with Me
